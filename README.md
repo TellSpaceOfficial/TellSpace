@@ -2,6 +2,7 @@
 <html>
 <head>
 <link rel="icon" type="image/png" href="Tell-Space-Logo-2.png">
+<title> Tell Space &#124; Development </title>
 </head>
 </html>
 # Welcome to Tell Space 
