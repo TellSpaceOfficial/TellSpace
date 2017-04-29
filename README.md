@@ -58,7 +58,7 @@ exit
 ```
 <br>
 ### Python
-```markdown
+```html
 var = 5
 var1 = 5
 print var+var1
