@@ -3,6 +3,7 @@
 <head>
 <link rel="icon" type="image/png" href="Tell-Space-Logo-2.png">
 <title> Tell Space &#124; Development </title>
+<meta name="description" content="Tell Space Official Website. <br> Mobile Apps Websites <br> Software Github"
 </head>
 </html>
 # Welcome to Tell Space 
