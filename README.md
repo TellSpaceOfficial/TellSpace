@@ -1,6 +1,7 @@
 # Welcome to Tell Space
 <br>
 ## Tell Space is a technology development company. We make Mobile Apps, Websites, Projects and Computer Software. We allso do what we call 'Labs' wich are experiments, testing and tutorials using diffrent technologys and development tools.
+<br>
 
 # Projects
 ## Tell Space Projects:
@@ -11,12 +12,14 @@
 - <a href="#"> More Comming Soon... </a>
 <br>
 ### We are allways trying to cme up with new project ideas so stay tuned ;D
+<br>
 
 # Labs
 ## Tell Space Labs:
 - <a href="#"> Not Yet </a>
 <br>
 ### Remanber that the site is under construction
+<br>
 
 # Development
 ## These are programming languages we use in our projects and labs
@@ -69,15 +72,19 @@ Console.WriteLine("Type Your Name;");
 string name = Console.ReadLine();
 Console.WriteLIne("Your name is" + name)
 ```
+<br>
 
 # Support and Contact
 <br>
 ## Contact
 E-Mail: contact@tellspace.ml
 <br>
+<br>
 Instagram: @tellspace
 <br>
+<br>
 Hashtags: #tellspace, #onyxbash
+<br>
 <br>
 Github: <a href="https://github.com/TellSpaceOfficial"> TellSpaceOfficial </a>
 <br>
@@ -86,9 +93,12 @@ Github: <a href="https://github.com/TellSpaceOfficial"> TellSpaceOfficial </a>
 ### Comment on github, instagram or e-mail us:
 E-Mail: support@tellspace.ml
 <br>
+<br>
 Instagram: @tellspace
 <br>
+<br>
 Github: <a href="https://github.com/TellSpaceOfficial"> TellSpaceOfficial </a>
+<br>
 <br>
 <br>
 <br>
