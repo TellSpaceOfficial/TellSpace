@@ -1,9 +1,3 @@
-<html>
-<head>
-<link rel="icon" type="image/png" href="Tell-Space-Logo-2.png">
-<meta name="description" conent="Tell Space Official Website. Technology Development. Apps, Websites, Software and Github">
-</head>
-</html>
 # Welcome to Tell Space 
 <br>
 ## Tell Space is a technology development company. We make Mobile Apps, Websites, Projects and Computer Software. We allso do what we call 'Labs' wich are theorys, testing and tutorials using diffrent technologys and development tools.
