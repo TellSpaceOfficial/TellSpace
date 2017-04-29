@@ -75,7 +75,6 @@ Console.WriteLIne("Your name is" + name)
 <br>
 
 # Support and Contact
-<br>
 ## Contact
 E-Mail: contact@tellspace.ml
 <br>
@@ -88,9 +87,11 @@ Hashtags: #tellspace, #onyxbash
 <br>
 Github: <a href="https://github.com/TellSpaceOfficial"> TellSpaceOfficial </a>
 <br>
+<br>
 ## Support
 ### Having problems with our projects or labs?
 ### Comment on github, instagram or e-mail us:
+<br>
 E-Mail: support@tellspace.ml
 <br>
 <br>
