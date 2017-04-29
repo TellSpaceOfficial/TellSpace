@@ -1,29 +1,59 @@
-## Welcome to GitHub Pages
+# Welcome to Tell Space
+<br>
+## Tell Space is a technology development company. We make Mobile Apps, Websites, Projects and Computer Software. We allso do what we call 'Labs' wich are experiments, testing and tutorials using diffrent technologys and development tools.
 
-You can use the [editor on GitHub](https://github.com/TellSpaceOfficial/TellSpaceWebsite/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
+# Development
+<br>
+## These are programming languages we use in our projects and labs
+<br>
+### HTML5
 ```markdown
-Syntax highlighted code block
+<!DOCTYPE html>
+<html>
 
-# Header 1
-## Header 2
-### Header 3
+  <head>
+      <title> Website </title>
+      <link rel="stylesheet" type="text/css" href="style.css">
+      <script> 
+      aler("Website pop up!");
+      </script>
+  
+  </head>
+  
+  <body>
+    <h1> Header </h1>
+    <p> Text Pharagraph </p>
+  
+  </body>
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
+</html>
+```
+<br>
+### Shell Script
+```markdown
+clear
+echo "Hello World"
+printf "Enter your name:"
+read -r name_var
+echo "Your name is :$name_var"
+clear
+exit
+```
+<br>
+### Python
+```markdown
+var = 5
+var1 = 5
+print var+var1
+input = raw_input("Enter Some Text: ")
+print input
+```
+<br>
+### C# (console applications)
+```markdown
+Console.WriteLine("Type Your Name;");
+string name = Console.ReadLine();
+Console.WriteLIne("Your name is" + name)
 ```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
