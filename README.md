@@ -2,10 +2,24 @@
 <br>
 ## Tell Space is a technology development company. We make Mobile Apps, Websites, Projects and Computer Software. We allso do what we call 'Labs' wich are experiments, testing and tutorials using diffrent technologys and development tools.
 
+# Projects
+## Tell Space Projects:
+- <a href="http://onyxbash.ml"> TheOnyxBashProject </a>
+<br>
+### The Onyx Bash Project is a collection of terminal programs or "tools" that makes it easyer to do simple terminal tasks such as: File management, installing packages, developing and more.
+<br>
+- <a href="#"> More Comming Soon... </a>
+<br>
+### We are allways trying to cme up with new project ideas so stay tuned ;D
+
+# Labs
+## Tell Space Labs:
+- <a href="#"> Not Yet </a>
+<br>
+### Remanber that the site is under construction
+
 # Development
-<br>
 ## These are programming languages we use in our projects and labs
-<br>
 ### HTML5
 ```markdown
 <!DOCTYPE html>
@@ -56,12 +70,26 @@ string name = Console.ReadLine();
 Console.WriteLIne("Your name is" + name)
 ```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/TellSpaceOfficial/TellSpaceWebsite/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+# Support and Contact
+<br>
+## Contact
+E-Mail: contact@tellspace.ml
+<br>
+Instagram: @tellspace
+<br>
+Hashtags: #tellspace, #onyxbash
+<br>
+Github: <a href="https://github.com/TellSpaceOfficial"> TellSpaceOfficial </a>
+<br>
+## Support
+### Having problems with our projects or labs?
+### Comment on github, instagram or e-mail us:
+E-Mail: support@tellspace.ml
+<br>
+Instagram: @tellspace
+<br>
+Github: <a href="https://github.com/TellSpaceOfficial"> TellSpaceOfficial </a>
+<br>
+<br>
+<br>
+### Tell Sapace 2017. <a href="https://github.com/TellSpaceOfficial"> Github </a>
