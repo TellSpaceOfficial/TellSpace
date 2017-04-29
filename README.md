@@ -11,7 +11,7 @@
 <br>
 - <a href="#"> More Comming Soon... </a>
 <br>
-### We are allways trying to cme up with new project ideas so stay tuned ;D
+### We are allways trying to come up with new project ideas so stay tuned ;D
 <br>
 
 # Labs
