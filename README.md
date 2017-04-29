@@ -104,22 +104,7 @@ Github: <a href="https://github.com/TellSpaceOfficial"> TellSpaceOfficial </a>
 <br>
 <br>
 <br>
+<br>
+<br>
 ### Tell Sapace 2017. <a href="https://github.com/TellSpaceOfficial"> Github </a>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
 <br>
