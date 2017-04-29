@@ -1,4 +1,9 @@
-# Welcome to Tell Space
+# Welcome to Tell Space 
+<style>
+# {
+color: black;
+}
+</style>
 <br>
 ## Tell Space is a technology development company. We make Mobile Apps, Websites, Projects and Computer Software. We allso do what we call 'Labs' wich are experiments, testing and tutorials using diffrent technologys and development tools.
 <br>
