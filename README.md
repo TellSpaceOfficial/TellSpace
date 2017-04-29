@@ -1,10 +1,4 @@
-```css
-h1 {
-color: red;
-}
-```
 # Welcome to Tell Space 
-<h1> Hello world! </h1>
 <br>
 ## Tell Space is a technology development company. We make Mobile Apps, Websites, Projects and Computer Software. We allso do what we call 'Labs' wich are experiments, testing and tutorials using diffrent technologys and development tools.
 <br>
@@ -30,7 +24,7 @@ color: red;
 # Development
 ## These are programming languages we use in our projects and labs
 ### HTML5
-```markdown
+```html
 <!DOCTYPE html>
 <html>
 
