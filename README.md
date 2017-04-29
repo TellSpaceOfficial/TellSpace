@@ -23,6 +23,7 @@
 
 # Development
 ## These are programming languages we use in our projects and labs
+<br>
 ### HTML5
 ```html
 <!DOCTYPE html>
