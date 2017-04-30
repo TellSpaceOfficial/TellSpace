@@ -50,7 +50,8 @@
 ```
 <br>
 ### Shell Script
-```console
+```bash
+#!bin/bash
 clear
 echo "Hello World"
 printf "Enter your name:"
