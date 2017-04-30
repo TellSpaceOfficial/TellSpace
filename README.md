@@ -79,7 +79,7 @@ Console.WriteLIne("Your name is" + name)
 
 # Contact & Support
 ## Contact
-E-Mail: contact@tellspace.ml
+Email: contact@tellspace.ml
 <br>
 <br>
 Instagram: <a href="http://www.instagram.com/tellspace/"> @tellspace </a>
@@ -94,9 +94,9 @@ Github: <a href="https://github.com/TellSpaceOfficial"> TellSpaceOfficial </a>
 <br>
 ## Support
 ### Having problems with our projects or labs?
-### Comment on github, instagram or e-mail us:
+### Comment on github, instagram or email us:
 <br>
-E-Mail: support@tellspace.ml
+Email: support@tellspace.ml
 <br>
 <br>
 Instagram: <a href="http://www.instagram.com/tellspace/"> @tellspace </a>
