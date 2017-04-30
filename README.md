@@ -109,8 +109,6 @@ Github: <a href="https://github.com/TellSpaceOfficial"> TellSpaceOfficial </a>
 ## <a href="https://tellspaceofficial.github.io/TellSpaceFeedback/"> Click Here </a>
 <br>
 <br>
+## Contact Form
 <br>
-<br>
-<br>
-### Tell Sapace 2017. <a href="https://github.com/TellSpaceOfficial"> Github </a>
 <br>
