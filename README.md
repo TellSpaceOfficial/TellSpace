@@ -3,7 +3,6 @@
 ## Tell Space is a technology development company. We make Mobile Apps, Websites, Projects and Computer Software. We allso do what we call 'Labs' wich are theorys, testing and tutorials using diffrent technologys and development tools.
 <br>
 
-<div id="projects_id">
 # Projects
 ## Tell Space Projects:
 - <a href="http://onyxbash.ml"> TheOnyxBashProject </a>
@@ -16,7 +15,6 @@
 <br>
 </div>
 
-<div id="labs_id">
 # Labs
 ## Tell Space Labs:
 - <a href="#"> Not Yet </a>
