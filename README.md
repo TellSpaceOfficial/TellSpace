@@ -82,7 +82,7 @@ Console.WriteLIne("Your name is" + name)
 E-Mail: contact@tellspace.ml
 <br>
 <br>
-Instagram: @tellspace
+Instagram: <a href="http://www.instagram.com/tellspace/"> @tellspace </a>
 <br>
 <br>
 Hashtags: #tellspace, #onyxbash
@@ -99,7 +99,7 @@ Github: <a href="https://github.com/TellSpaceOfficial"> TellSpaceOfficial </a>
 E-Mail: support@tellspace.ml
 <br>
 <br>
-Instagram: @tellspace
+Instagram: <a href="http://www.instagram.com/tellspace/"> @tellspace </a>
 <br>
 <br>
 Github: <a href="https://github.com/TellSpaceOfficial"> TellSpaceOfficial </a>
