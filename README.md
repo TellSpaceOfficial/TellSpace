@@ -104,7 +104,7 @@ Instagram: <a href="http://www.instagram.com/tellspace/"> @tellspace </a>
 <br>
 <br>
 Github: <a href="https://github.com/TellSpaceOfficial"> TellSpaceOfficial </a>
-<br>
+<br> <br>
 
 # Take Our Feedback survey!
 ## <a href="https://tellspaceofficial.github.io/TellSpaceFeedback/"> Click Here </a>
