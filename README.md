@@ -50,7 +50,7 @@
 ```
 <br>
 ### Shell Script
-```markdown
+```console
 clear
 echo "Hello World"
 printf "Enter your name:"
@@ -61,7 +61,7 @@ exit
 ```
 <br>
 ### Python
-```html
+```python
 var = 5
 var1 = 5
 print var+var1
@@ -70,7 +70,7 @@ print input
 ```
 <br>
 ### C# (console applications)
-```markdown
+```csharp
 Console.WriteLine("Type Your Name;");
 string name = Console.ReadLine();
 Console.WriteLIne("Your name is" + name)
