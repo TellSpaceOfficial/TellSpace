@@ -13,7 +13,6 @@
 <br>
 ### We are allways trying to come up with new project ideas so stay tuned ;D
 <br>
-</div>
 
 # Labs
 ## Tell Space Labs:
@@ -21,7 +20,6 @@
 <br>
 ### Remember that the site is under construction
 <br>
-</div>
 
 # Development
 ## These are programming languages we use in our projects and labs
