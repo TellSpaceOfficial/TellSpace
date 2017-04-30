@@ -50,7 +50,7 @@
 ```
 <br>
 ### Shell Script
-```shell
+```sh
 #!bin/bash
 clear
 echo "Hello World"
