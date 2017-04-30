@@ -102,6 +102,9 @@ Instagram: @tellspace
 <br>
 Github: <a href="https://github.com/TellSpaceOfficial"> TellSpaceOfficial </a>
 <br>
+
+# Take Our Feedback survey!
+## <a href="https://tellspaceofficial.github.io/TellSpaceFeedback/"> Click Here </a>
 <br>
 <br>
 <br>
