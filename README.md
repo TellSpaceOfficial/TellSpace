@@ -3,7 +3,6 @@
 ## Tell Space is a technology development company. We make Mobile Apps, Websites, Projects and Computer Software. We allso do what we call 'Labs' wich are theorys, testing and tutorials using diffrent technologys and development tools.
 <br>
 
-<h1 id="home_id"></h1>
 # Projects
 ## Tell Space Projects:
 - <a href="http://onyxbash.ml"> TheOnyxBashProject </a>
@@ -15,15 +14,13 @@
 ### We are allways trying to come up with new project ideas so stay tuned ;D
 <br>
 
-<h1 id="projects_id"></h1>
 # Labs
 ## Tell Space Labs:
 - <a href="#"> Not Yet </a>
 <br>
-### Remamber that the site is under construction
+### Remember that the site is under construction
 <br>
 
-<h1 id="labs_id"></h1>
 # Development
 ## These are programming languages we use in our projects and labs
 <br>
@@ -78,7 +75,6 @@ Console.WriteLIne("Your name is" + name)
 ```
 <br>
 
-<h1 id="sup_con_id"></h1>
 # Contact & Support
 ## Contact
 E-Mail: contact@tellspace.ml
