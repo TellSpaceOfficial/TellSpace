@@ -5,6 +5,13 @@
 ## Tell Space is a technology development company. We make Mobile Apps, Websites, Projects and Computer Software. We allso do what we call 'Labs' wich are theorys, testing and tutorials using diffrent technologys and development tools.
 <br>
 
+# Apps
+## Tell Space Mobile Applicatoins
+- <a href="http://opusapp.ml"> Opus </a>
+<br>
+### Opus is an Android application that allows you to create and organize notes and tasks easily with a minimalistic and user friendly interface.
+<br>
+
 # Projects
 ## Tell Space Projects:
 - <a href="http://onyxbash.ml"> TheOnyxBashProject </a>
