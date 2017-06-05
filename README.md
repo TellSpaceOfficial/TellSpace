@@ -1,6 +1,8 @@
  <link rel="shortcut icon" type="image/png" href="Tell-Space-Logo-2.png">
 <img src="Tell-Space-Logo-1.png" width="523px" height="185px">
 ### News! We have updated our Privacy Policy. It can be found at the end of the page.
+<br>
+<br>
 # Welcome to Tell Space
 <br>
 ## Tell Space is a technology development company. We make Mobile Apps, Websites, Projects and Computer Software. We allso do what we call 'Labs' wich are theorys, testing and tutorials using diffrent technologys and development tools.
