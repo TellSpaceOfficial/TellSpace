@@ -1,6 +1,6 @@
  <link rel="shortcut icon" type="image/png" href="Tell-Space-Logo-2.png">
 <img src="Tell-Space-Logo-1.png" width="523px" height="185px">
-### Upate! You can now on mobile open the page settings and click 'Add to homescreen' and experince this website in a mobile web-app form. For more info visit this link: <a href="telllspace.wordpress.com">HERE</a>
+### Upate! You can now on mobile open the page settings and click 'Add to homescreen' and experince this website in a mobile web-app format.
 <br>
 <br>
 # Welcome to Tell Space
